@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran-kumar-desu" alt="kiran-kumar-desu" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Spring Boot, REST, Vuejs, Angular**
+- 🌱 I’m currently learning **DSA, Spring Boot, REST, Vuejs, Angular and Reactjs**
 
 - 💬 Ask me about **JAVA**
 
